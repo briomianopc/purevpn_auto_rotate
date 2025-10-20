@@ -270,7 +270,7 @@ cp /opt/purevpn_auto_rotate/base.ovpn /opt/purevpn_auto_rotate/base.ovpn.bak
 
 ## 许可证
 
-MIT License
+MIT License(https://github.com/briomianopc/purevpn_auto_rotate/blob/main/LICENSE)
 
 ## 支持
 
